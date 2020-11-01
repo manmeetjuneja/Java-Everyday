@@ -1,2 +1,2 @@
 # Java_programs
-Its my practice programs repository. Hope it helps you 😊
+Its my practice programs repository with codechef solutions. Hope it helps you 😊
